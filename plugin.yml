@@ -1,0 +1,9 @@
+name: BukkitStaffList
+main: me.Arabianfellow.StaffOnline.Main
+version: 2.0
+author: Arabianfellow
+description: Displays online staff
+ 
+commands:
+  staff:
+    description: Displays online staff
